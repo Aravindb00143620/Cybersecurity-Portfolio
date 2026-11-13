@@ -38,4 +38,4 @@ Completed an academic project focused on firewall configuration and network secu
 - Cybersecurity Fundamentals
 
 ## Professional Profile
-linkedin.com/in/aravind-binumon-cyber
+[LinkedIn Profile](https://www.linkedin.com/in/aravind-binumon-cyber/)
